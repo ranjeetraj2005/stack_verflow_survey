@@ -1,6 +1,5 @@
 Readme:
 Project Motivation and Details:
-First DataScient Blog.
 
 This is step into to explore Stack Overflow Developer Survey, 2017.
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. 
@@ -21,3 +20,14 @@ Dataset:
 We will use the data of StackOverflow's Developer Survey for year 2017. 
 #download dataset URL : https://www.kaggle.com/stackoverflow/so-survey-2017
 
+Libraries used:
+Numpy, Pandas, matplotlib
+
+Files used in the project:
+stack_overflow_survey_2017_data.ipynb - complete model file for overall problem solution addressed in project motivation
+
+Summary of the results:
+
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/)
+
+Acknowledgements:
