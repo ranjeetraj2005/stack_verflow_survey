@@ -40,12 +40,13 @@ i Rertieve programming languages in particular year and Get common programming l
 I clean up language columns based on a list of strings you want to search for in each row.
 So finally i got all the proportion of languages.
 
-![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/so_survey_plot1_prog_lang_result.png)
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/results/so_survey_plot1_prog_lang_result.png)
+
 
 So finally i got rankings of common languages by merging the data with all dictionary data.
 
 
-![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/so_survey_q1_prog_lang_result.png)
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/results/so_survey_q1_prog_lang_result.png)
 
 So finally i could conclude , "Javascript" is most popular programming languages among developers
 
@@ -58,18 +59,18 @@ then "clean_job_sat()" to remove unwatnted listing
 
 Finally to merge the "job_sat_mean" column to get result.
 
-![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/so_survey_q2_prog_lang_result.png)
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/results/so_survey_q2_prog_lang_result.png)
 
 So finally i conclude "typescript" is most satified language in terms of job satisfaction
 
 Solution 3 : Base programming language to start professional career?
 I tried to figure out the proportion of years of code of each language in each year. and found Assempbly language is basic starting language for early career choice.
 
-![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/so_survey_plot2_prog_lang_result.png)
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/results/so_survey_plot2_prog_lang_result.png)
 
 when i figure out 'matlab' proportion is 0.7 of new-comers of and get highest rankings of common languages.
 
-![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/result/so_survey_q3_prog_lang_result.png)
+![alt text](https://github.com/ranjeetraj2005/stack_verflow_survey/blob/master/results/so_survey_q3_prog_lang_result.png)
 
 i conclude "Matlab" is most basic language that every developer start learning in their professional career.
 
